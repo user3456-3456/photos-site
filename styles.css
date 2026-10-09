@@ -42,7 +42,7 @@ main section {
 h2 {
   font-size: 2rem;
   margin: 0 0 1rem;
-  color: var(--blue-deep);
+  color: #333;
 }
 
 .about-text {
