@@ -233,8 +233,8 @@ h2 {
   margin-top: 5rem;
   padding: 2rem 1.5rem;
   text-align: center;
-  background-color: var(--blue-deep);
-  color: var(--paper);
+  background-color: #f8f9fa;
+  color: #333;
   font-size: 0.95rem;
 }
 
@@ -243,10 +243,10 @@ h2 {
 }
 
 .site-footer a:hover {
-  color: var(--film-yellow);
+  color: #333;
 }
 
 a:focus-visible {
-  outline: 3px solid var(--film-yellow);
+  outline: 3px solid #333;
   outline-offset: 3px;
 }
