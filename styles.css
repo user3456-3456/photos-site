@@ -12,6 +12,13 @@ h2 {
 }        
 
 
+/*---------logo styling---------*/
+.logo {
+  font-family: "Fraunces", Georgia, serif;
+  font-style: italic;
+  font-size: 1.4rem;
+}
+
 
 /* ---------- Header ---------- */
 .site-header {
