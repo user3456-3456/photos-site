@@ -1,16 +1,29 @@
 /* ---------- Body ---------- */
-body{background-color: #f5f0e6}
-h1{text-align: center; color: #333;
-    font-family: "Vogue Web", serif;
+body {
+  margin: 0;
+  background-color: #f5f0e6;
+  color: #333;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+h1, h2 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #333;
+  text-align: center;
 }
 
 h2 {
-            text-align: center;
-            color: #333;
-            font-family: serif;
-            text-decoration: underline;
-}        
+  font-size: 2rem;
+  margin: 0 0 1rem;
+}
 
+a {
+  color: #5b4636;
+}
 
 /*---------logo styling---------*/
 .logo {
@@ -20,12 +33,7 @@ h2 {
 }
 
 
-/*------font settings------*/
-h1, h2 {
-  font-family: "Fraunces", Georgia, serif;
-  font-weight: 700;
-  line-height: 1.15;
-}
+
 
 
 /* -------sections------- */
