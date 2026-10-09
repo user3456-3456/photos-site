@@ -237,3 +237,21 @@ a:focus-visible {
   outline: 3px solid #333;
   outline-offset: 3px;
 }
+
+
+.site-header {
+  background: linear-gradient(rgba(20, 20, 20, 0.55), rgba(20, 20, 20, 0.55)),
+              url("images/giraffe.jpg") center / cover;
+  color: #fff;
+  border-bottom: none;
+}
+
+.site-header h1,
+.site-header a {
+  color: #fff;
+}
+
+.site-header nav a:hover,
+.site-header nav a:focus {
+  border-bottom-color: #fff;
+}
