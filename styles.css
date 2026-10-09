@@ -47,6 +47,13 @@ h1, h2 {
   padding: 1.2rem 1.5rem;
 }
 
+.site-header nav a {
+  margin-left: 1.2rem;
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
+}
+
 /* -------boxlike container for the stuff-------- */
 .frame1 {
     background-color: #e8dcc8;
