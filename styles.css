@@ -20,6 +20,14 @@ h2 {
 }
 
 
+/*------font settings------*/
+h1, h2 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+
 /* ---------- Header ---------- */
 .site-header {
   background-color: #f8f9fa;
