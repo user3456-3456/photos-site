@@ -74,7 +74,7 @@ h2 {
     align-items: flex-start;
     gap: 24px;
 }
-
+/* ------some rules for the images------ */
 .image1 {
     display: block;
     width: 40%;
@@ -100,7 +100,7 @@ h2 {
     height: auto;
 }
 
-/* ------some rules for the images------ */
+/* ------some other rules for the images------ */
 @media (max-width: 700px) {
     .article-content {
         flex-direction: column;
