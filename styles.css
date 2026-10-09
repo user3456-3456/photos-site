@@ -109,7 +109,8 @@ h2 {
 .hero-sub {
   font-size: 1.2rem;
   max-width: 34rem;
-  margin: 0;
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* -------boxlike container for the stuff-------- */
