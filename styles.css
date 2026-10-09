@@ -179,7 +179,9 @@ h2 {
   }
 }
 
-
+html {
+  scroll-behavior: smooth;
+}
 
 
 
