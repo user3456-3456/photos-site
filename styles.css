@@ -4,3 +4,15 @@
   padding: 20px;
   text-align: center;
 }
+
+
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1.2rem 1.5rem;
+}
