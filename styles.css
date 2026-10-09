@@ -226,3 +226,27 @@ h2 {
     border-radius: 12px;
     border: 3px solid #9ac0df;
 }
+
+
+/* ---------- Footer ---------- */
+.site-footer {
+  margin-top: 5rem;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  background-color: var(--blue-deep);
+  color: var(--paper);
+  font-size: 0.95rem;
+}
+
+.site-footer p {
+  margin: 0.2rem 0;
+}
+
+.site-footer a:hover {
+  color: var(--film-yellow);
+}
+
+a:focus-visible {
+  outline: 3px solid var(--film-yellow);
+  outline-offset: 3px;
+}
