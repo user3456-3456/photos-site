@@ -72,3 +72,27 @@ h2 {
     max-width: 480px;
     height: auto;
 }
+
+/* ------some rules for the images------ */
+@media (max-width: 700px) {
+    .article-content {
+        flex-direction: column;
+    }
+
+    .image1 {
+        width: 100%;
+        max-width: 100%;
+    }
+     .image2 {
+        width: 100%;
+        max-width: 100%;
+    }
+     .image3 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .image4 {
+        width: 100%;
+        max-width: 100%;
+    }
+}
