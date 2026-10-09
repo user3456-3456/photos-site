@@ -1,3 +1,18 @@
+/* ---------- Body ---------- */
+body{background-color: #f5f0e6}
+h1{text-align: center; color: #333;
+    font-family: "Vogue Web", serif;
+}
+
+h2 {
+            text-align: center;
+            color: #333;
+            font-family: serif;
+            text-decoration: underline;
+}        
+
+
+
 /* ---------- Header ---------- */
 .site-header {
   background-color: #f8f9fa;
