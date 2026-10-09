@@ -28,6 +28,41 @@ h1, h2 {
 }
 
 
+/* -------sections------- */
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+main section {
+  padding: 4rem 0 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 0 0 1rem;
+  color: var(--blue-deep);
+}
+
+.about-text {
+  max-width: 40rem;
+}
+
+.about-text p {
+  margin: 0 0 1rem;
+}
+
+.tag {
+  display: inline-block;
+  padding: 0 0.5rem;
+  background-color: #333;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+
 /* ---------- Header ---------- */
 .site-header {
   background-color: #f8f9fa;
